@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="none" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="Channels", ABS-CBN|ALL TV
+#EXTINF:-1 tvg-id="none" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="Channels", ALL TV
 http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Channels", GMA 7	
@@ -381,30 +381,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/i
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRND5NnsGHI1y_OouMdRw-hs
 
-#EXTINF:-1 tvg-id="AMC.us"" tvg-logo="http://46.151.196.243:80/images/DxmpwZXv7v7_FHtXZxPiHOWK76m5CFUSGL5DVBWsInsKnAWlNZfMCT0WfrQQfb2a.png" group-title="Channels", AMC
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRA1ypQZ_lfhQ0Fgs150ONhw
-
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="http://46.151.196.243:80/images/75Dasug4Cl3n03mPqiyvKcJMn7JvQlOQomxf7idgNWw.png" group-title="Channels", Comedy Central
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRETakflOrW6aJlantU0aIeU
-
-#EXTINF:-1 tvg-id="TNTPacific.us" tvg-logo="http://46.151.196.243:80/images/DxmpwZXv7v7_FHtXZxPiHOWK76m5CFUSGL5DVBWsInseEllgDci9nLfnHuRD9lw0.png" group-title="Channels", TNT
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRDqKO-SgmQ_2ZRbZQO9bAnk
-
-#EXTINF:-1 tvg-id="AandENetwork.us" tvg-logo="http://46.151.196.243:80/images/75Dasug4Cl3n03mPqiyvKStc5t_LKdBqaRu6wyDOuv8.png" group-title=Channels", A&E
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRC_7XrNrJPMW31YTt0ChxnM
-
 #EXTINF:-1 tvg-id="Warnertv.Hd.ph" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Channels", Warner TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.GuV6r-_wS_WOT2X4DiIaoQAAAA%26pid%3DApi&f=1&ipt=fb760ec2ac749c904afe061425567d41af3f4df011a45c07a3c9eb1585577308&ipo=images" group-title="Premium Movie Channels", Sky Cinema Family
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRGf8Knvp5bD6x6XUBOxDcMc
-
-#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.aVFSwvHH8d6Jq7ZhP5NsIwAAAA%26pid%3DApi&f=1&ipt=bac1ff1181693dbe344dcff2e657b3925906c3b4cc38a6ff83c3cbc504b81641&ipo=images" group-title="Channels", Sky Cinema Greats
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctROiuNZO6HkTC0cqJSQYrubw
 
 #EXTINF:-1 tvg-id="Rock.Action.id" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64f57100366fe5c8cb6088a7_logo_ext_web.png?fbclid=IwY2xjawGIHF9leHRuA2FlbQIxMAABHaW0_Y0A9XL4w1ZXDSwAZCAxe62ui1Oy3gU5wjykfHsZ0eCjzNxl05M0JQ_aem_NIH5vZtTty4_B8wy5fB2LA" group-title="Channels", Rock Action
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -427,7 +409,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/defau
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="MTV.us" tvg-logo="http://46.151.196.243:80/images/qRv5tMYISGb_GqSGx1STv4qd9x-zjLvZBAdpg_6lmaVjnlPqUnLzUoM_hH_7DeuPsHJZTALPlWBCthhWmk--RkVNd6GXERjRLgeVxyhhhyA.png" group-title="Channels", MTV
+#EXTINF:-1 tvg-id="none" tvg-logo="http://46.151.196.243:80/images/qRv5tMYISGb_GqSGx1STv4qd9x-zjLvZBAdpg_6lmaVjnlPqUnLzUoM_hH_7DeuPsHJZTALPlWBCthhWmk--RkVNd6GXERjRLgeVxyhhhyA.png" group-title="Channels", MTV
 http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRFPwNgss8zZdrRQt_RDPpHs
 
 #EXTINF:-1 tvg-id="Depedchannel.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png" group-title="Channels", DepEd Channel
