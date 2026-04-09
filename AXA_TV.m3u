@@ -377,7 +377,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hitsmovies/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="none" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Channels", Sony Movies
+#EXTINF:-1 tvg-id="none" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/3840px-Sony_Movies_Logo.svg.png" group-title="Channels", Sony Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRND5NnsGHI1y_OouMdRw-hs
 
@@ -884,7 +884,7 @@ https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-LIVE-EVENT-7-HD/default.mpd
 #EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-logo="https://puddintap.click/ico/CA/SN360.png" group-title="Channels", SPORTSNET 360
 http://zerotwo.access.ly:2096/Kentynes/0176324859/815115
 
-#EXTINF:-1 tvg-id="Willow.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Willow_2023_stacked.svg/revision/latest?cb=20240927132511" group-title="Channels", WILLOW Sports
+#EXTINF:-1 tvg-id="Willow.us" tvg-logo="https://ml.globenewswire.com/Resource/Download/196af2ad-3f74-4a74-9179-3b85d9698f87" group-title="Channels", WILLOW Sports
 http://zerotwo.access.ly:2096/Kentynes/0176324859/824823
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="Channels",ESPN 2
