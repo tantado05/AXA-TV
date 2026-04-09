@@ -447,9 +447,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/defau
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="none" tvg-logo="http://46.151.196.243:80/images/qRv5tMYISGb_GqSGx1STv4qd9x-zjLvZBAdpg_6lmaVjnlPqUnLzUoM_hH_7DeuPsHJZTALPlWBCthhWmk--RkVNd6GXERjRLgeVxyhhhyA.png" group-title="Channels", MTV
-http://46.151.196.243:80/play/ve4pN7Pd8hoaZ2qA5GctRFPwNgss8zZdrRQt_RDPpHs
-
 #EXTINF:-1 tvg-id="Depedchannel.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png" group-title="Channels", DepEd Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
