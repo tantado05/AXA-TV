@@ -290,7 +290,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/celmovie_pinoy_sd/default/
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
 
-#EXTINF:-1 tvg-id="none" tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="Channels", Aniplus
+#EXTINF:-1 tvg-id="none" tvg-logo="https://i.imgur.com/ZDDMrQG.png" group-title="Channels", Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cg.Hitsnow.ph" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png" group-title="Channels", Hits Now
