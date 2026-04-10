@@ -38,22 +38,24 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
 https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://images.seeklogo.com/logo-png/39/1/gma-news-tv-logo-png_seeklogo-399249.png" group-title="Channels", GMA News TV
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://toppng.com/uploads/preview/ma-news-tv-logo-11563045262oxeappsxdb.png" group-title="Channels", GMA News TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5d848730e4a4f9b962290039dd2b96b:c959dc12f1bff5a66d030117fb7e9855
-https://absp-live.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
+https://absplive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 
 #EXTINF:-1 tvg-id="NONE" tvg-logo="https://www.pngmart.com/files/23/Cna-PNG-Image.png" group-title="Channels", CNA
-https://dai4s4shjeg0o.cloudfront.ne...c5127dd7652483785dece590f60b299/master_1.m3u8
+https://dai4s4shjeg0o.cloudfront.ne.../9c5127dd7652483785dece590f60b299/master.m3u8
 
-#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://www.pngkit.com/png/detail/406-4064762_gma-life-tv-vector-logo-2008-gma-kapuso.png" group-title="Channels", GMA Life TV
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://p1.hiclipart.com/preview/960/979/640/tv-channel-icons-pack-gma-life-tv-color-png-icon.jpg" group-title="Channels", GMA Life TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d308ef487f54107b7da758e195ecbd3:9d4004d4c065dd4b85ad5bd12c35386f
-https://absp-live.akamaized.net/dash/live/2099522/glife3/manifest.mpd
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
+https://absplive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://magmediaintl.com/images/logochannels/Hallypop%20Logo.png" group-title="Channels", Hallypop
 http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -65,7 +67,7 @@ http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="NONE" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/euronews-logo-png-transparent.png" group-title="Channels", Euro News
+#EXTINF:-1 tvg-id="NONE" tvg-logo="https://cdn.brandfetch.io/domain/euronews.net/fallback/lettermark/theme/dark/h/400/w/400/icon?c=1bfwsmEH20zzEfSNTed" group-title="Channels", Euro News
 https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd
 
 #EXTINF:-1 tvg-id="Sari.Sari.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/Sari-Sari_Channel_2D_Logo_2016.png/revision/latest?cb=20190317023940" group-title="Channels", Sari-Sari
@@ -186,8 +188,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd
 
+#EXTINF:-1 tvg-id="Movies.Now.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/250?cb=20200114193517" group-title="Channels", MNX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
 #EXTINF:-1 tvg-id="3RsTV" tvg-logo="https://i.imgur.com/50RyQA7l.jpg" group-title="Channels", 3RsTV
 https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Movies.Now.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Channels", MN+ HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="Viva.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA120-C9E1-11EC-9D64-0242AC120002//0-3x1.jpg?width=1920" group-title="Channels", Viva Cinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -201,6 +217,13 @@ https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b4rjf8nl.png" group-title="Channels", 3rs MovieBox
 https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Movies.Now.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Romedy_Now_HD.jpg/revision/latest?cb=20180531113548" group-title="Channels", Romedy Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="Cg.Tvnmovie.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Channels", tvN Movies Pinoy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -251,7 +274,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
 #EXTINF:-1 tvg-id="Star.Movies.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1280px-STAR_Movies_logo.svg.png" group-title="Channels", Star Movies HD
-http://magictv.us:80/live/8964476/3pUJreUXUW/979.ts
+http://ptuf.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://stage.akashdth.com/assets/uploads/channels_images/1640857479-98084000.png?v=6.0.1", Star Movies Select
 http://magictv.us:80/live/8964476/3pUJreUXUW/23270.ts
