@@ -846,12 +846,20 @@ https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="Channels",Eurosport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://hls.iill.top/api/Eurosport-1/index.m3u8
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-HD.png" group-title="Channels",Eurosport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=657707bbd1e240e08bd6969df27fef7c:364e00581c1432f4175e4a2e8e0cd57e
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://hls.iill.top/api/Eurosport-2/index.m3u8
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/500px-Tennis_Channel_logo.svg.png" group-title="Channels", Tennis Channel
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/43978.ts
@@ -966,19 +974,19 @@ http://89.105.221.127/ESPN1/index.m3u8?token=test
 http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/41918.ts
 
 #EXTINF:-1 tvg-id=".ph" tvg-logo="https://i.imgur.com/VUPAGWN.png" group-title="Channels",TSN 1
-http://zerotwo.access.ly:2096/Kentynes/0176324859/815122
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57428.ts
 
 #EXTINF:-1 tvg-id=".ph" tvg-logo="https://i.imgur.com/SWscg4w.png" group-title="Channels",TSN 2
-http://zerotwo.access.ly:2096/Kentynes/0176324859/815123
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57429.ts
 
 #EXTINF:-1 tvg-id=".ph" tvg-logo="https://i.imgur.com/KBQSJxA.png" group-title="Channels",TSN 3
-http://zerotwo.access.ly:2096/Kentynes/0176324859/815124
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57430.ts
 
 #EXTINF:-1 tvg-id=".ph" tvg-logo="https://i.imgur.com/ofAoWIg.png" group-title="Channels",TSN 4
-http://zerotwo.access.ly:2096/Kentynes/0176324859/815125
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57431.ts
 
 #EXTINF:-1 tvg-id=".ph" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="Channels",TSN 5
-http://zerotwo.access.ly:2096/Kentynes/0176324859/815126
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57432.ts
 
 #EXTINF:-1 tvg-id="History.Hd.ph" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="Channels", History
 #KODIPROP:inputstreamaddon=inputstream.adaptive
