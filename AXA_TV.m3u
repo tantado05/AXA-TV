@@ -443,7 +443,7 @@ http://212.102.60.231/BET/index.m3u8
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="none" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/3840px-Sony_Movies_Logo.svg.png" group-title="Channels", Sony Movies
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/5831.ts
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Starz.us" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz.png" group-title="Channels", STARZ
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
