@@ -986,7 +986,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=b26a662a10074eb0756404c8e90e765a:76e376bd25f92bed939435d982f92d3f
 https://ac-009.live.p7s1video.net/e0e064c8/t_004/ran-nflnetwork-de-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://images.seeklogo.com/logo-png/19/1/nhl-network-logo-png_seeklogo-194791.png" group-title="Channels", NHL TV
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://www.nicepng.com/png/detail/141-1415174_nhl-logo-nhl-network-logo-png.png" group-title="Channels", NHL TV
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Channels", ESPN
