@@ -437,10 +437,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/i
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Starz.us" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz.png" group-title="Channels", STARZ
-http://bgdc.live:25461/live/allanphillips31/55446538/14915.m3u8
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
 #EXTINF:-1 tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Channels",CBS
-http://bgdc.live:25461/live/allanphillips31/55446538/10374.m3u8
+http://stream.cammonitorplus.net/1810/index.m3u8
 
 #EXTINF:-1 tvg-id="Warnertv.Hd.ph" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Channels", Warner TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -455,7 +455,9 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="Channels", NBC
 http://stream.cammonitorplus.net/1812/index.m3u8
 
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="https://cms-media.clink.services/Bravo-Default-Black_2x_zipqvq.png" codec="auto" group-title="Channels", Bravo 
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="https://cms-media.clink.services/Bravo-Default-Black_2x_zipqvq.png" codec="auto" group-title="Channels", Bravo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f68e33d769c0328b85a2df6bb3583293:abd6d11d766b4fb0e783cd998df809b2
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(bravo-east)/master.mpd
 
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="Channels" , BBC America
