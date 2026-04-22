@@ -19,5 +19,7 @@ http://89.187.178.197:1970/NBCNewYork/index.m3u8
 #EXTINF:-1,CBS New York
 http://89.187.178.197:1970/CBSNewYork/index.m3u8
 
-#EXTINF:-1,Tap Silog
-https://dice-live-ap.akamaized.net/hls/live/2001903/300024-317970/exchange300024xokvd_300024_4500/chunklist_video.m3u8?hdntl=exp=1776516975~acl=%2f*~id=1f7cf353-ce4f-4185-82d1-8e001bc413a7~data=hdntl,dWlkPW5VM0FxRHxkYzYwOTE2MC05YTVhLTRiNDItOWZkNy05M2Q5ZTIzMDEyZWImaXA9MTEyLjIwMS4yLjgxJmV4cD0xNzc2NTE3MDA0JmVpZD0zMDAwMjQmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=a3e8d69907face6e2edaed39085573d73f233a915a92339e5967af5db106bdf2
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-kypaaa4yzn.bunny.run/license?cid=KJ0nmF8DB4md
+#EXTINF:0 tvg-id="" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/ip5xd935pf_LANDSCAPE_SD.jpg" group-title="GSAT" group-logo="https://i.imgur.com/ZwaBNNb.png", GNN
+https://mc-kypaaa4yzn.bunny.run/KJ0nmF8DB4md/gsat/manifest.mpd
