@@ -88,7 +88,7 @@ http://136.239.173.3:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87
 #KODIPROP:inputstream.adaptive.license_key=b1c7e9d24f8a4d6c9e337a2f1c5b8d60:8ff2e524cc1e028f2a4d4925e860c796
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Ibc13.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/IBC_13_Logo_2011.svg/1200px-IBC_13_Logo_2011.svg.png" group-title="Channels", IBC13
+#EXTINF:-1 tvg-id="Ibc13.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="Channels", IBC13
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -384,7 +384,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87H
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_zee_one.webp" group-title="Channels", Zee One
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zee_One_Logo_2017.svg/960px-Zee_One_Logo_2017.svg.png" group-title="Channels", Zee One
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 
@@ -444,7 +444,7 @@ https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Starz.us" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz.png" group-title="Channels", STARZ
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
-#EXTINF:-1 tvg-name="MovieSphere" tvg-logo="https://en.wikipedia.org/wiki/Special:FilePath/Moviesphere_logo.png?width=400" group-title="Movies",MovieSphere
+#EXTINF:-1 tvg-name="MovieSphere" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/600x600.webp?type=color_onBlack" group-title="Movies",MovieSphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/960px-American_Broadcasting_Company_Logo.svg.png" group-title="Channels", ABC
@@ -476,7 +476,7 @@ http://89.187.178.197:1970/NBCNewYork/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f68e33d769c0328b85a2df6bb3583293:abd6d11d766b4fb0e783cd998df809b2
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(bravo-east)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/CBS_Eyemark.svg" group-title="Channels", CBS
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CBS_logo_%282020%29.svg" group-title="Channels", CBS
 http://89.187.178.197:1970/CBSNewYork/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Channels", TNT 
@@ -516,7 +516,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/defau
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="https://www.bellmedia.ca/lede/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2.png" tvg-logo="" group-title="Channels", CTV2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/CTV_2_2018.svg" group-title="Channels", CTV2
 http://stream.cammonitorplus.net/1731/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnyrzBApLiXcm4Z3ple6tnNpnVSbX_4GnKA&s" group-title="Channels", CBC
