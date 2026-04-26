@@ -29,26 +29,26 @@ https://mc-kypaaa4yzn.bunny.run/KJ0nmF8DB4md/gsat/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150182&id=0042500134&mediaId=g0042500134cle1000783tor
-#EXTINF:-1 tvg-id="0042500134" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/cle-tor/1920x1080.png" group-title="NBA",Cleveland Cavaliers vs. Toronto Raptors 04/27 1:00 AM PHT
+#EXTINF:-1 tvg-id="0042500134" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/cle-tor/1920x1080.png" group-title="basketball",Cavaliers vs. Raptors 1:00 AM PHT
 https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150182&id=0042500134&mediaId=g0042500134cle1000783tor
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150197&id=0042500154&mediaId=g0042500154sas1000783por
-#EXTINF:-1 tvg-id="0042500154" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/sas-por/1920x1080.png" group-title="NBA",San Antonio Spurs vs. Portland Trail Blazers 04/27 3:30 AM PHT
+#EXTINF:-1 tvg-id="0042500154" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/sas-por/1920x1080.png" group-title="basketball",Spurs vs. Blazers 3:30 AM PHT
 https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150197&id=0042500154&mediaId=g0042500154sas1000783por
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150345&id=0042500114&mediaId=g0042500114bos1001458phi
-#EXTINF:-1 tvg-id="0042500114" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/bos-phi/1920x1080.png" group-title="NBA",Boston Celtics vs. Philadelphia 76ers 04/27 7:00 AM PHT
+#EXTINF:-1 tvg-id="0042500114" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/bos-phi/1920x1080.png" group-title="basketball",Celtics vs. 76ers 7:00 AM PHT
 https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150345&id=0042500114&mediaId=g0042500114bos1001458phi
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mc-2l6kt16zkr.bunny.run/nba/license?appToken=150242&id=0042500174&mediaId=g0042500174lal1001458hou
-#EXTINF:-1 tvg-id="0042500174" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/lal-hou/1920x1080.png" group-title="NBA",Los Angeles Lakers vs. Houston Rockets 04/27 9:30 AM PHT
+#EXTINF:-1 tvg-id="0042500174" tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/lal-hou/1920x1080.png" group-title="basketball",Lakers vs. Rockets 9:30 AM PHT
 https://mc-2l6kt16zkr.bunny.run/nba/manifest?appToken=150242&id=0042500174&mediaId=g0042500174lal1001458hou
