@@ -24,4 +24,11 @@ http://89.187.178.197:1970/CBSNewYork/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/ip5xd935pf_LANDSCAPE_SD.jpg" group-title="GSAT" group-logo="https://i.imgur.com/ZwaBNNb.png", GNN
 https://mc-kypaaa4yzn.bunny.run/KJ0nmF8DB4md/gsat/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.n_8yeUix4g-d9XpCyoVgcAHaEK?pid=Api&P=0&h=180" group-title="CIGNAL",i Heart Movies
+http://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3NzY2Mzc0NjAsImV4cCI6MTc3NzM3NTA4OSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzc3Mzc1MDg5LCJhbGxvd2VkT3JpZ2lucyI6WyJodHRwczovL3d3dy5tci15dXNvLXR2LnNpdGUiLCJodHRwczovL21hZy1pbmdhdC1zYS1iZW50YWJveXMucGFnZXMuZGV2Il19.jFldmqRPMmvG-FxIST6jvg-4ub6Xq5NmzxRY6vG_5Bc
 
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.A1nU7d4Ys_Tu1tlO35fMvwAAAA?pid=Api&P=0&h=180" group-title="MOVIES",Star Movies HD
+https://converse.nathcreqtives.com/channels/starmovies/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3NzY2Mzc0NjAsImV4cCI6MTc3NzM3NTA4OSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzc3Mzc1MDg5LCJhbGxvd2VkT3JpZ2lucyI6WyJodHRwczovL3d3dy5tci15dXNvLXR2LnNpdGUiLCJodHRwczovL21hZy1pbmdhdC1zYS1iZW50YWJveXMucGFnZXMuZGV2Il19.jFldmqRPMmvG-FxIST6jvg-4ub6Xq5NmzxRY6vG_5Bc
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.YiNVkM5wK2tIn0fxdp94iAHaFj?pid=Api&P=0&h=180" group-title="CIGNAL",Heart of Asia
+http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3NzY2Mzc0NjAsImV4cCI6MTc3NzM3NTA4OSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzc3Mzc1MDg5LCJhbGxvd2VkT3JpZ2lucyI6WyJodHRwczovL3d3dy5tci15dXNvLXR2LnNpdGUiLCJodHRwczovL21hZy1pbmdhdC1zYS1iZW50YWJveXMucGFnZXMuZGV2Il19.jFldmqRPMmvG-FxIST6jvg-4ub6Xq5NmzxRY6vG_5Bc
