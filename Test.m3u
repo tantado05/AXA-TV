@@ -37,7 +37,11 @@ http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cC
 https://mc-oc8s2153aa.bunny.run/nba/manifest?id=0042500105
 
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/tor-cle/1920x1080.png" group-title="NBA",Toronto Raptors vs Cleveland Cavaliers
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-oc8s2153aa.bunny.run/nba/license?id=0042500135
 https://mc-oc8s2153aa.bunny.run/nba/manifest?id=0042500135
 
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/logos/nba/davinci/images/team-matchups/nba/latest/ced/hou-lal/1920x1080.png" group-title="NBA",Houston Rockets vs Los Angeles Lakers
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-oc8s2153aa.bunny.run/nba/license?id=0042500175
 https://mc-oc8s2153aa.bunny.run/nba/manifest?id=0042500175
